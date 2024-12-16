@@ -6,7 +6,7 @@
 
 <div align="left">
 <ul>
-    <li><a href="https://github.com/zerod-rp"><img src="https://avatars.githubusercontent.com/u/176238227" alt="Zerod" style="width:30px;height:30px;"> Zerod</a></li>
+    <li><a href="https://github.com/zerod-rp">🐌 Zerod</a></li>
 </ul>
 </div>
 

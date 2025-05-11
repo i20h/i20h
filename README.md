@@ -2,7 +2,7 @@
 <div align="center">
 <p>A 21-year-old self-taught developer with a BTS SNIR diploma</p>
 
-<h4>🔭 Projet: </h4>
+<h4>🔭 Project: </h4>
 
 <div align="left">
 <ul>

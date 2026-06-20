@@ -17,5 +17,5 @@
 <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-[![Tibo's github stats](github-readme-stats-kohl-two-31.vercel.app/api?username=i20h)](https://github.com/anuraghazra/github-readme-stats)
+[![Tibo's github stats](https://github-readme-stats-kohl-two-31.vercel.app/api?username=i20h)](https://github.com/anuraghazra/github-readme-stats)
 </div>
